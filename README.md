@@ -95,8 +95,7 @@ In future projects, I would like to focus more on:
 
 ## Author
 
-- GitHub - https://github.com/yourusername
-- Frontend Mentor - https://www.frontendmentor.io/profile/yourusername
+- GitHub - https://github.com/Sasi-2006
 
 ---
 
