@@ -24,7 +24,7 @@ Users should be able to:
 ## Links
 
 - Live Site URL: https://your-live-site-url.com
-- Repository URL: https://github.com/yourusername/social-links-profile
+- Repository URL: https://github.com/Sasi-2006/social-links-profile
 
 ---
 
