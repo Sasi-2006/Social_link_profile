@@ -23,7 +23,7 @@ Users should be able to:
 
 ## Links
 
-- Live Site URL: https://your-live-site-url.com
+- Live Site URL: https://sasi-2006.github.io/Social_link_profile/
 - Repository URL: https://github.com/Sasi-2006/social-links-profile
 
 ---
